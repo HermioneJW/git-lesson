@@ -2,4 +2,6 @@ Steps to working with git hub
 
 
 1. Create a githhub repo and location to save in your local directory. 
-2. To make changes on the rihgt hand side you must first STAGE the change and then follow with this with a COMMIT send with the bottom right 
+2. To make changes on the rihgt hand side you must first STAGE the change and then follow with this with a 
+    COMMIT send with the bottom right 
+3. To send this to the Github use the Push button
