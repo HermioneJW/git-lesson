@@ -5,3 +5,4 @@ Steps to working with git hub
 2. To make changes on the rihgt hand side you must first STAGE the change and then follow with this with a 
     COMMIT send with the bottom right 
 3. To send this to the Github use the Push button
+4. Can do this in Gitkraken but tis clunky or in text edit or wherever! 
